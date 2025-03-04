@@ -22,7 +22,7 @@ If you encounter some problems during installing `torch-geometric`, please refe
 ## **Datasets**
 
 | Dataset | Proteins | Edges |  Cliques | Average Neighbors |
-| --- | --- | --- | --- | --- |
+| ----- | ----- | ----- | ----- | ----- |
 | Biogrid | 5640 | 59748 | 38616 | 21.187 |
 | DIP | 4928 | 17201 | 7832 | 6.981 |
 | Krogan14K | 3581 | 14076 | 4075 | 7.861 |
